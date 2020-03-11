@@ -4,7 +4,7 @@ My portfolio was built using React.
 
 ## Building Blocks
 
-* eact
+* Application built using React
 
 * A `Nav` component that appears on multiple pages
 
